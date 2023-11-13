@@ -2,7 +2,6 @@
 
 import csv
 from random import randint as r
-import xml.dom.minidom as minidom
 
 #Задание_1
 
